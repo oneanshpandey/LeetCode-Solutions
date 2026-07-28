@@ -1,6 +1,9 @@
-# LeetCode-Solutions
-A collection of my optimized LeetCode solutions categorized by difficulty and algorithmic topic, implemented in Python and C++.
-<br>
-I have created this so that I can stay updated and track my competitive programming journey.
-<br> 
-As a 16-year-old, I find it a bit challenging, but I love it. 
+# LeetCode Solutions
+
+Welcome! This repository is a collection of my solutions to various LeetCode problems, covering a wide range of topics to track my competitive programming journey. 
+
+I started this project at 16 years old to challenge myself, stay consistent, and help other beginners who are learning to code.
+
+## 🚀 Languages & Technologies
+- **Languages:** Python, C++, Java
+- **Databases:** MySQL
